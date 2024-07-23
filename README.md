@@ -36,10 +36,10 @@
 
   ![](https://github.com/AadityaUoHyd/bootstore-kotlin-reactJs-project/blob/master/screenshot/6books.png)
   
-- When clicked on link of book.
+- When clicked on link of book name to see details.
 
   ![](https://github.com/AadityaUoHyd/bootstore-kotlin-reactJs-project/blob/master/screenshot/7book-add.png)
   
-- When clicked on link of author.
+- When clicked on link of author name to see details.
 
   ![](https://github.com/AadityaUoHyd/bootstore-kotlin-reactJs-project/blob/master/screenshot/8author%20and%20his%20books.png)
